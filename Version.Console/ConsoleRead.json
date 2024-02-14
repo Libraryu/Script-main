@@ -1,4 +1,1 @@
-installion("1.15")
-notfiy("Hello World", "print", 0)
-notfiy("Hello World", "warn", 0)
-notfiy("Hello World", "error", 0)
+installion(true, "1.25")
